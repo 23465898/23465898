@@ -19,7 +19,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">不要碰我系</a></td>
  <td><a href="https://www.youtube.com/shorts/DRxWEcIlRyI">牙~~~~</a></td>
- <td><a href="">資料視覺化</a></td>
+ <td><a href="https://github.com/23465898/line-weather-vercel">資料視覺化</a></td>
  <td>偶練幾3</td>
  </tr>
 
