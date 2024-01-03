@@ -13,7 +13,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <td><a href="https://icook.tw/recipes/407905">布丁偶一系</a></td>
  <td><a href="https://www.youtube.com/watch?v=BDfL-CNzcuY">愛了嗎</a></td>
- <td><a href="">巨量資料處理</a></td>
+ <td><a href="https://github.com/23465898/map">巨量資料處理</a></td>
  <td>偶練幾2</td>
  </tr>
  <tr>
