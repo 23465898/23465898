@@ -26,7 +26,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <tr>
  <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">阿華田系</a></td>
  <td><a href="https://www.youtube.com/watch?v=ljd9ISixsWo">看五月的晚霞</a></td>
- <td><a href="">其他</a></td>
+ <td><a href="https://github.com/23465898/chu1206">其他</a></td>
  <td>偶練幾4</td>
  </tr>
 </table><br>
