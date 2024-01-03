@@ -18,7 +18,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  </tr>
  <tr>
  <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">不要碰我系</a></td>
- <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">瞪~~~~</a></td>
+ <td><a href="https://www.youtube.com/shorts/DRxWEcIlRyI">牙~~~~</a></td>
  <td><a href="">資料視覺化</a></td>
  <td>偶練幾3</td>
  </tr>
